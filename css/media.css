@@ -1,0 +1,94 @@
+@media (max-width: 768px)
+{
+		/* pre header wrapper */
+	.pre-header-wrapper{
+		display: none;
+	}
+	.pre-bar ul{
+		text-align: center;
+		display: inline-block;
+	}
+	.pre-header-wrapper{
+		text-align: center;
+	}
+	.social{
+		float: none;
+	}
+	.header-menu-wrapper .logo{
+		text-align: center;
+	}
+	.menu-wrapper ul{
+		padding-left: 15px;
+	}
+	.menu-wrapper ul li{
+		padding: 0;
+		font-size: 14px;
+	}
+	.navbar-expand-md .collapse .menu .nav-link{
+		color: #000;
+	}
+	.header-menu-wrapper{
+		background-color: #fff;
+		padding: 0px 0px;
+		position: relative;
+	}
+	#demo1 .carousel-caption{
+		top: 45px;
+	}
+	#demo1 .carousel-caption h3{
+		font-size: 28px;
+		font-weight: 300;
+		color: #f97307;
+		letter-spacing: 2px;
+	}
+	#demo1 .carousel-caption p{
+		font-size: 15px;
+		font-weight: 50;
+		letter-spacing: 1px;
+	}
+	/* main blog wrapper */
+	.blog-img img{
+		width: auto;
+		max-width: 100%;
+	}
+	.main_blog_wrapper{
+		padding: 0;
+	}
+	.blog-img{
+		padding: 25px 20px 50px 20px;
+	}
+	/* achievement wrapper */
+		.square-achievement{
+		padding: 30px 0px 0px 0px;
+	}
+	.main-btn{
+		padding: 40px 0px;
+	}
+	.mybtn{
+		margin-left: 8px;
+		padding: 5px 15px;
+		font-size: 12px;
+	}
+	/* main blog wrapper start */
+	#main_blog .empty{
+		width: 0;
+		height: 0;
+	}
+	.team-member{
+		width: 80%;
+		margin: 20px auto;
+	}
+	/* Main Container Start */
+	.main_container{
+		padding: 50px 0;
+		background-size: 100%;
+	}
+	.main_container .spaced{
+		font-size: 20px;
+		letter-spacing: 3px!important;
+	}
+	.main_container .accent{
+		margin-bottom: 40px;
+		letter-spacing: 9px!important;
+	}
+}
